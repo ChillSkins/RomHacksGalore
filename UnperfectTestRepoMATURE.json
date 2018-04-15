@@ -1,4 +1,35 @@
-https://www.dropbox.com/s/y89j1g3eaxvrptn/pokemon_dark.gba?dl=0
-https://www.dropbox.com/s/1trrtnu3mhh5ofc/Pokemon%20-%20Cock%20Version%20%28Bootleg%29.gb?dl=0
-https://www.dropbox.com/s/stcnrpm3x7mrw02/Pokemon%20Hell%20Red%20PROPER.gba?dl=0
-https://www.dropbox.com/s/b6iz7lnjsxfbjt1/Pokemon%20New%20Fire%20Red.gba?dl=0
+{
+  "reponame": "unperfect repo",
+  "repologo": "https://cdn.discordapp.com/attachments/388236790659809280/435202969781272576/image.jpg",
+  "repoauthor": "unperfect",
+  "repodesc": "Contact me on discord if games dont work. unperfect#0717",
+  "categories": [{
+      "categoryname": "ROM HACKS",
+      "games": [{
+        "name": "POKEMON DARK
+        "link": "https://www.dropbox.com/s/y89j1g3eaxvrptn/pokemon_dark.gba?dl=0",
+        "boxart": "https://cdn.discordapp.com/attachments/388236790659809280/435202969781272576/image.jpg",
+        "system": "GBA"
+      },
+      {
+        "name": "POKEMON C*CK",
+        "link": "https://www.dropbox.com/s/1trrtnu3mhh5ofc/Pokemon%20-%20Cock%20Version%20%28Bootleg%29.gb?dl=0",
+        "boxart": "https://cdn.discordapp.com/attachments/388236790659809280/435202969781272576/image.jpg",
+        "system": "GB"
+      },
+      {
+        "name": "POKEMON NEW FIRE RED",
+        "link": "https://www.dropbox.com/s/b6iz7lnjsxfbjt1/Pokemon%20New%20Fire%20Red.gba?dl=0",
+        "boxart": "https://cdn.discordapp.com/attachments/388236790659809280/435202969781272576/image.jpg",
+        "system": "GBA"
+      },
+      {
+        "name": "POKEMON HELL RED",
+        "link": "https://www.dropbox.com/s/stcnrpm3x7mrw02/Pokemon%20Hell%20Red%20PROPER.gba?dl=0",
+        "boxart": "https://cdn.discordapp.com/attachments/388236790659809280/435202969781272576/image.jpg",
+        "system": "GBA" 
+        }
+      ]
+    }
+  ]
+}
